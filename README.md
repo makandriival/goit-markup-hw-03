@@ -1,1 +1,1 @@
-GH Pages link - https://makandriival.github.io/goit-markup-hw-02/
+GH Pages link - https://makandriival.github.io/goit-markup-hw-03/
