@@ -1,1 +1,7 @@
-/* Intentionally left blank. Styles are connected via link tags in index.html. */
+@import "./common.css";
+@import "./header.css";
+@import "./hero.css";
+@import "./features.css";
+@import "./team.css";
+@import "./portfolio.css";
+@import "./footer.css";

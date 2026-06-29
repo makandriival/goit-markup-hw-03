@@ -5,7 +5,6 @@
 .header .container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
 .header-nav {
@@ -40,6 +39,7 @@
 
 .contacts {
   font-style: normal;
+  margin-left: auto;
 }
 
 .contacts-list {
